@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name | Home</title>
+  <title>Quien es Eddie Miranda | Home</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <div class="container">
-      <h1>Your Name</h1>
+      <h1>Eddie Miranda</h1>
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -22,7 +22,7 @@
   <section class="intro">
     <div class="container">
       <h2>Welcome to My Website</h2>
-      <p>Hello, I'm [Your Name]. I'm passionate about [what you’re passionate about].</p>
+      <p>Hello, I'm known by name names, but Eddie seems to have been the one that stuck . ' you  begin to live life when you live for others' was something that Bruce Lee said and deeply resonates. My passion lies in being able to truly help those around me. ].</p>
       <img src="your-photo.jpg" alt="A photo of me" class="profile-photo">
     </div>
   </section>
@@ -54,7 +54,7 @@
     <div class="container">
       <h2>What Inclusion Means to Me</h2>
       <p>Inclusion is the practice of creating environments where everyone, regardless of their background or abilities, feels valued, respected, and empowered. It's about breaking down barriers and ensuring everyone has a voice.</p>
-      <img src="inclusion-photo.jpg" alt="Inclusion-related photo" class="inclusion-photo">
+      <img https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prdaily.com%2Fresearch-backed-ways-to-foster-inclusion-in-your-workplace%2F&psig=AOvVaw3ge1jZmTpbhnXB90idA3zo&ust=1744742385638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDe7oeW2IwDFQAAAAAdAAAAABAE">
     </div>
   </section>
 </body>
